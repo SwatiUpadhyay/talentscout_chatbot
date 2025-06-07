@@ -8,8 +8,6 @@ It collects candidate information and generates relevant technical questions bas
 ## 🔧 Installation Instructions
 
 1. **Clone the repository**
-
-```bash
 git clone https://github.com/your-username/talentscout_chatbot.git
 cd talentscout_chatbot
 
