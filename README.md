@@ -8,6 +8,7 @@ It collects candidate information and generates relevant technical questions bas
 ## 🔧 Installation Instructions
 
 1. **Clone the repository**
+
 git clone https://github.com/your-username/talentscout_chatbot.git
 cd talentscout_chatbot
 
@@ -91,6 +92,7 @@ The chatbot uses structured prompts to achieve two main goals:
 Swati Upadhyay
 
 🎥 Watch the demo video : https://www.loom.com/share/622ef72630ee435aa97f4ad808dc432c
+
 Summary : In this video, I demonstrate my internship project, a smart hiring assistant called Talent Scout.
 It collects candidate details and uses AI to generate custom interview questions.
 I walk you through the process of filling out the form and show how the chatbot generates questions based on the input.
