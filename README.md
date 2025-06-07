@@ -10,9 +10,9 @@ It collects candidate information and generates relevant technical questions bas
 
 1. **Clone the repository**
 
-git clone https://github.com/your-username/talentscout_chatbot.git
+    git clone https://github.com/your-username/talentscout_chatbot.git
 
-cd talentscout_chatbot
+    cd talentscout_chatbot
 
 
 2. **Install dependencies**
