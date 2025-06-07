@@ -92,5 +92,8 @@ The chatbot uses structured prompts to achieve two main goals:
 👩‍💻 Developed By
 Swati Upadhyay
 
-🎥 [Watch the demo video](https://www.loom.com/share/622ef72630ee435aa97f4ad808dc432c)
-Summary : In this video, I demonstrate my internship project, a smart hiring assistant called Talent Scout. It collects candidate details and uses AI to generate custom interview questions. I walk you through the process of filling out the form and show how the chatbot generates questions based on the input. Please take a look at the generated questions and let me know your thoughts!
+🎥 Watch the demo video : https://www.loom.com/share/622ef72630ee435aa97f4ad808dc432c
+Summary : In this video, I demonstrate my internship project, a smart hiring assistant called Talent Scout.
+It collects candidate details and uses AI to generate custom interview questions.
+I walk you through the process of filling out the form and show how the chatbot generates questions based on the input.
+Please take a look at the generated questions and let me know your thoughts!
