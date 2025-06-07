@@ -1,6 +1,7 @@
 # TalentScout – AI Hiring Assistant Chatbot
 
 **TalentScout** is an AI-powered chatbot built with Streamlit and Hugging Face's Zephyr-7B model to assist in the initial screening of candidates for tech roles.  
+
 It collects candidate information and generates relevant technical questions based on their declared tech stack.
 
 ---
@@ -10,6 +11,7 @@ It collects candidate information and generates relevant technical questions bas
 1. **Clone the repository**
 
 git clone https://github.com/your-username/talentscout_chatbot.git
+
 cd talentscout_chatbot
 
 
@@ -24,6 +26,7 @@ cd talentscout_chatbot
 4. **Run the Streamlit app**
 
     streamlit run app.py
+   
 
 **Usage Guide**
 
@@ -59,6 +62,7 @@ Once the app is running, the chatbot will :
 - Data Logging: Saved to CSV file on form submit
 
 
+
 **Prompt Strategy**
 
 The chatbot uses structured prompts to achieve two main goals:
@@ -74,6 +78,7 @@ The chatbot uses structured prompts to achieve two main goals:
     - Return clearly labeled, structured sections
 
     - Follow a clean and readable format
+    - 
 
 **Challenges & Solutions**
 
@@ -88,8 +93,10 @@ The chatbot uses structured prompts to achieve two main goals:
 - This app was built as part of a technical internship assessment.
 
 
+
 👩‍💻 Developed By
 Swati Upadhyay
+
 
 🎥 Watch the demo video : https://www.loom.com/share/622ef72630ee435aa97f4ad808dc432c
 
